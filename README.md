@@ -2,7 +2,7 @@
     ──「 𝗕𝗥𝗔𝗡𝗗𝗘𝗗 𝗞𝗜𝗡𝗚 𝗫 𝗨𝗦𝗘𝗥𝗕𝗢𝗧 」──
 
 <p align="center">
-<a href="https://github.com/WCGKING/KINGUSERBOT"><img src="https://te.legra.ph/file/11cfa74175b590014bd16.jpg" height="270" width="480" alt="Branded-Userbot"/></a>
+<a href="https://github.com/WCGKING/KINGUSERBOT"><img src="https://telegra.ph/file/ffe35393a444748e09255.jpg" height="270" width="480" alt="Branded-Userbot"/></a>
 </p>
 
 <h2 align="center">
